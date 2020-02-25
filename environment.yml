@@ -1,0 +1,37 @@
+name: bmed360v2020
+
+channels:
+  - conda-forge
+  - simpleitk
+
+dependencies:
+  - dcm2niix
+  - imageio
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - matplotlib
+  - nibabel
+  - nilearn
+  - numpy
+  - pandas=1.0
+  - pip
+  - python=3.7
+  - requests
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - SimpleITK>=1.1.0
+  - statsmodels
+
+  - pip:
+    - dipy
+    - eli5
+    - jupyterlab==2.0.0rc
+    - opencv-contrib-python
+    - pandas-profiling
+    - pdpbox
+    - pip
+    - pyradiomics
