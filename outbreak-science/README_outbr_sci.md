@@ -10,15 +10,20 @@
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)), and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, _optimization_ ..., every topic supported by Jupyter notebooks (see below) - with programming exercises and challenges (see below)
 
 ## Course-related  material
+
   ### Book chapters
    - Selected chapters from Domingo WE. _Virus as Populations Composition, Complexity, Dynamics, and Biological Implications_. Academic Press, 2016. [[link](https://www.sciencedirect.com/book/9780128008379/virus-as-populations)]
    - [ _The Rules of Contagion: Why Things Spread - and Why They Stop_](http://kucharski.io/books) ([Basic Books](https://www.basicbooks.com/titles/adam-kucharski/the-rules-of-contagion/9781541674318), 2020) by [Adam Kucharski](https://www.lshtm.ac.uk/aboutus/people/kucharski.adam)
+  
   ### Papers
+  - Rivers C et al. _Using “outbreak science” to strengthen the use of models during epidemics_. Nat Commun 2019;10:3102 [[online](https://www.nature.com/articles/s41467-019-11067-2)] [[pdf](https://www.nature.com/articles/s41467-019-11067-2.pdf)]
+  
   - Houlihan CF, Whitworth JAG. _Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases_. Clin Med (Lond). 2019 Mar;19(2):140–144  [[online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)] [[PDF](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)]
   
   ### Web sites
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
    - **Johns Hopkins University CORONAVIRUS RESOURCE CENTER** (https://coronavirus.jhu.edu) see also https://github.com/CSSEGISandData/COVID-19
+   - **Highlights of Expert Panel on COVID-19 from Harvard, MIT, Mass General Hospital** (https://www.justsecurity.org/69202/highlights-of-expert-panel-on-covid-19-from-harvard-mit-mass-general)
   
   ### Data and challenges (for educational use)
    - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
