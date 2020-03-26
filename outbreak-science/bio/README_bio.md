@@ -12,5 +12,6 @@
 ## Learning opportunities
 
 - Senior AW,. ..., Hassabis D. _Improved protein structure prediction using potentials from deep learning_. Nature 2020;577:706-710. [[online](https://www.nature.com/articles/s41586-019-1923-7)] [[pdf](https://www.nature.com/articles/s41586-019-1923-7.pdf)] https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13
+- **Best practices for the analysis of SARS-CoV-2 data: Genomics and Cheminformatics** Using open source tools and public cyberinfrastructure for transparent, reproducible analyses of viral datasets. [COVID-19 analysis on usegalaxy](https://covid19.galaxyproject.org) using [[bioconda](https://bioconda.github.io)] and other tools   https://github.com/galaxyproject/SARS-CoV-2
 
-  
+  using 
