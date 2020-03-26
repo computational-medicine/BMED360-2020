@@ -9,10 +9,13 @@
 
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)), and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, ..., every topic supported by Jupyter notebooks (see below) - with programming exercises and challenges (see below)
 
-## Reading material
-
+### Reading material
+  #### Book chapters
    - Selected chapters from Domingo WE. _Virus as Populations Composition, Complexity, Dynamics, and Biological Implications_. Academic Press, 2016. [[link](https://www.sciencedirect.com/book/9780128008379/virus-as-populations)]
-   - Papers and links made available on this repository (under construction)
+  #### Papers
+  
+  #### Data and challenges
+   - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
 
 ## Online slides (some with video)
 
