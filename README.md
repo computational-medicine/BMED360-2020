@@ -19,7 +19,7 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 
 
 You will find more (static) information about
-this course at [MittUiB](http://mitt.uib.no/course/17428).
+this course at [MittUiB](https://mitt.uib.no/courses/22178).
 
 
 
