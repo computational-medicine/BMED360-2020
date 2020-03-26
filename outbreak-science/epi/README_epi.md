@@ -9,4 +9,8 @@
 
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)), and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, ..., every topic supported by Jupyter notebooks (see below) - with programming exercises and challenges.
 
-## Reading material
+## Learning opportunities
+
+- **COVID-19 Learning Opportunities from Johns Hopkins** 
+  - [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out](https://www.coursera.org/learn/covid19-epidemiolog)
+  
