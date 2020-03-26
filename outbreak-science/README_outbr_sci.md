@@ -17,7 +17,6 @@
   
   ### Papers
   - Rivers C et al. _Using “outbreak science” to strengthen the use of models during epidemics_. Nat Commun 2019;10:3102 [[online](https://www.nature.com/articles/s41467-019-11067-2)] [[pdf](https://www.nature.com/articles/s41467-019-11067-2.pdf)]
-  
   - Houlihan CF, Whitworth JAG. _Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases_. Clin Med (Lond). 2019 Mar;19(2):140–144  [[online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)] [[PDF](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)]
   
   ### Web sites
