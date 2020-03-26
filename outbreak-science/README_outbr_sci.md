@@ -17,6 +17,7 @@
   
   ### Papers
   - Rivers C et al. _Using “outbreak science” to strengthen the use of models during epidemics_. Nat Commun 2019;10:3102 [[online](https://www.nature.com/articles/s41467-019-11067-2)] [[pdf](https://www.nature.com/articles/s41467-019-11067-2.pdf)]
+  - Rivers C et al. Modernizing and Expanding Outbreak Science to Support Better Decision Making During Public Health Crises: Lessons for COVID-19 and Beyond. Report by The Johns Hopkins Center for Health Security, March 24, 2020 [[online](http://www.centerforhealthsecurity.org/our-work/publications/2020/modernizing-and-expanding-outbreak-science-to-support-better-decision-making-during-public-health-crises)] [[pdf](http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2020/200324-outbreak-science.pdf)]
   - Houlihan CF, Whitworth JAG. _Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases_. Clin Med (Lond). 2019 Mar;19(2):140–144  [[online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)] [[pdf](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)]
   
   ### Web sites
