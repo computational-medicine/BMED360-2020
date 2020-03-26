@@ -15,4 +15,4 @@
   - [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out](https://www.coursera.org/learn/covid19-epidemiolog)
   
 - **Mathemtics of life and death: How disease models shape national shutdowns and other pandemic policies** Science (news) March 25 2020
- [[link](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other)]
+ by M Enserink & K Kupferschmidt [[link](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other)]
