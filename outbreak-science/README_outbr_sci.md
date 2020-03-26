@@ -22,6 +22,8 @@
    - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
    - **#Hack the Crisis Norway** A 48-hour challenge March 27th–29th (https://www.hackthecrisisnorway.com) see also [EU-Startups](https://www.eu-startups.com/2020/03/apply-by-midnight-tonight-to-join-the-online-covid-19-hackathon-run-by-the-norweigan-tech-community)
    - **COVID-19 Open Research Dataset Challenge (CORD-19)** An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+   - **Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data** Center for Communicable Disease Dynamics – Harvard University (https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data)
+ 
 
 ## Online slides (some with video)
 
