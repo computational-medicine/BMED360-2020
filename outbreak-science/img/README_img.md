@@ -9,4 +9,7 @@
 
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)), and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, ..., every topic supported by Jupyter notebooks (see below) - with programming exercises and challenges.
 
-## Reading material
+## Learning opportunites
+
+- **Radiology fighting Covid-19 - Live report from Parma, Italy** A special report by the European Society of Radiology (ESR) dedicated to radiology fighting COVID-19. In an expert interview with Prof. Nicola Sverzellati from the University of Parma, Italy, he will share insights on the experience of patient and imaging management in Europe's currently most affected area (thanks for the link Sathiesh)
+[[YouTube](https://www.youtube.com/watch?v=QFW8CmZ0cyM)]
