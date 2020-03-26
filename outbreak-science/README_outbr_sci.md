@@ -31,6 +31,8 @@
    - **COVID-19 Open Research Dataset Challenge (CORD-19)** An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House (https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
    - **Raw data in Wuhan, Hubei, and Guangzhou for serious COVID-19 cases, and Wuhan hospitalization data** Center for Communicable Disease Dynamics – Harvard University (https://github.com/c2-d2/COVID-19-wuhan-guangzhou-data)
    - **coronastatus** Open source webapp that let people report their health status to get overview of COVID-19 (https://github.com/BustByte/coronastatus)
+   -**sars-cov-2** Here are 65 public repositories matching this topic ... from the [neherlab](https://neherlab.org)
+Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-cov-2. See also [covid19_scenarios] (https://github.com/neherlab/covid19_scenarios) and [covid19_scenarios_data](https://github.com/neherlab/covid19_scenarios_data)
  
 
 ## Online slides (some with video)
