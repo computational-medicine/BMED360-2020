@@ -14,7 +14,7 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 
 
 
-***) <br>We plan to run BMED 360 (8 students enrolled) starting April 21 ("fully digitized") with a slightly modified curriculum, also addressing COVID-19 and "outbreak science" from a computional imaging and modeling perspective. There will be online slides, computer labs (code and data on GitHub,  using issue tracker for student interaction), assignments/challenges, digital MCQ, and a final digital oral exam from home (presenting yor personal project on Google hangouts / Zoom / Skype - taking load from MittUiB, mostly used for static information). Grading has been A-F, this semester we will use pass/nopass. <br>This is work in PROGRESS . . .**
+***) <br>We plan to run BMED 360 (8 students enrolled) starting April 21 ("fully digitized") with a slightly modified curriculum, also addressing COVID-19 and "outbreak science" from a computational imaging and modeling perspective. There will be online slides, computer labs (code and data on GitHub,  using issue tracker for student interaction), assignments/challenges, digital MCQ, and a final digital oral exam from home (presenting yor personal project on Google hangouts / Zoom / Skype - taking load from MittUiB, mostly used for static information). Grading has been A-F, this semester we will use pass/nopass. <br>This is work in PROGRESS . . .**
 
 
 
