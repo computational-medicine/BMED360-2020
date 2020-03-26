@@ -12,7 +12,7 @@
 ## Course-related  material
   ### Book chapters
    - Selected chapters from Domingo WE. _Virus as Populations Composition, Complexity, Dynamics, and Biological Implications_. Academic Press, 2016. [[link](https://www.sciencedirect.com/book/9780128008379/virus-as-populations)]
-   - [ _The Rules of Contagion: Why Things Spread - and Why They Stop_](http://kucharski.io/books) ( ([Basic Books](https://www.basicbooks.com/titles/adam-kucharski/the-rules-of-contagion/9781541674318), 2020) by [Adam Kucharski](https://www.lshtm.ac.uk/aboutus/people/kucharski.adam)
+   - [ _The Rules of Contagion: Why Things Spread - and Why They Stop_](http://kucharski.io/books) ([Basic Books](https://www.basicbooks.com/titles/adam-kucharski/the-rules-of-contagion/9781541674318), 2020) by [Adam Kucharski](https://www.lshtm.ac.uk/aboutus/people/kucharski.adam)
   ### Papers
   
   ### Web sites
