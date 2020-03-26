@@ -14,6 +14,7 @@
    - Selected chapters from Domingo WE. _Virus as Populations Composition, Complexity, Dynamics, and Biological Implications_. Academic Press, 2016. [[link](https://www.sciencedirect.com/book/9780128008379/virus-as-populations)]
    - [ _The Rules of Contagion: Why Things Spread - and Why They Stop_](http://kucharski.io/books) ([Basic Books](https://www.basicbooks.com/titles/adam-kucharski/the-rules-of-contagion/9781541674318), 2020) by [Adam Kucharski](https://www.lshtm.ac.uk/aboutus/people/kucharski.adam)
   ### Papers
+  - Houlihan CF, Whitworth JAG. Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases. Clin Med (Lond). 2019 Mar;19(2):140–144 [[PDF](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)] [read [online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)]
   
   ### Web sites
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
