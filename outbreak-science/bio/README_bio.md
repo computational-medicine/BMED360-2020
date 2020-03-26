@@ -9,7 +9,8 @@
 
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)), and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, ..., every topic supported by Jupyter notebooks (see below) - with programming exercises and challenges.
 
-## Reading material
+## Learning opportunities
 
-   - Selected chapters from Domingo WE. _Virus as Populations Composition, Complexity, Dynamics, and Biological Implications_. Academic Press, 2016. [[link](https://www.sciencedirect.com/book/9780128008379/virus-as-populations)]
-   - Papers and links made available on this repository (under construction)
+- Senior AW,. ..., Hassabis D. Improved protein structure prediction using potentials from deep learning. Nature 2020;577:706-710. [[online](https://www.nature.com/articles/s41586-019-1923-7)] [[pdf](https://www.nature.com/articles/s41586-019-1923-7.pdf)] https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13
+
+  
