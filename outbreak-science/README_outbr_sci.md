@@ -16,6 +16,7 @@
   
   #### Data and challenges
    - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
+   - **#Hack the Crisis Norway** A 48-hour challenge March 27th–29th (https://www.hackthecrisisnorway.com)
 
 ## Online slides (some with video)
 
