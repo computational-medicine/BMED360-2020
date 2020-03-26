@@ -11,6 +11,6 @@
 
 ## Learning opportunities
 
-- Senior AW,. ..., Hassabis D. Improved protein structure prediction using potentials from deep learning. Nature 2020;577:706-710. [[online](https://www.nature.com/articles/s41586-019-1923-7)] [[pdf](https://www.nature.com/articles/s41586-019-1923-7.pdf)] https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13
+- Senior AW,. ..., Hassabis D. _Improved protein structure prediction using potentials from deep learning_. Nature 2020;577:706-710. [[online](https://www.nature.com/articles/s41586-019-1923-7)] [[pdf](https://www.nature.com/articles/s41586-019-1923-7.pdf)] https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13
 
   
