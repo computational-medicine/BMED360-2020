@@ -1,7 +1,7 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2020
 
 
-### _MRI_
+## _MRI_
 
 ### Simulators
 
