@@ -7,7 +7,7 @@
 ### Awesome Magnetic Resonance Imaging (MRI)
  - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Daniel Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
  
-### Simulators
+### Simulators and more
 
 - **The (web) compass simulator** from the Danish Research Centre for Magnetic Resonance and TDU  (http://www.drcmr.dk/CompassMR)
 - **The (web) [Bloch simulator](http://drcmr.dk/new-bloch-simulator)** from the Danish Research Centre for Magnetic Resonance and TDU (http://drcmr.dk/BlochSimulator)
@@ -15,6 +15,8 @@
 
 - **MRI-education-resources** UCSF Peder Larson Research Group
  (https://github.com/LarsonLab/MRI-education-resources/tree/master/Notebooks)
+
+- **Pulse sequence graphics** by Daniel Gomez (https://github.com/dangom/mr-sequence-diagrams/blob/master/README.org)
 
 
 #### To relax and enjoy biological vision (in spare time) - see
