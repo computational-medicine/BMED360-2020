@@ -3,6 +3,10 @@
 
 ## _MRI_
 
+
+### Awesome Magnetic Resonance Imaging (MRI)
+ - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Danial Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
+ 
 ### Simulators
 
 - **The (web) compass simulator** from the Danish Research Centre for Magnetic Resonance and TDU  (http://www.drcmr.dk/CompassMR)
