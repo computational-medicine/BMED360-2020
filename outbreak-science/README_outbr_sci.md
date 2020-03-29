@@ -21,7 +21,7 @@
   - Houlihan CF, Whitworth JAG. _Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases_. Clin Med (Lond). 2019 Mar;19(2):140–144  [[online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)] [[pdf](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)]
   
   ### Videos
-  - **Simulating an Epidemic** The [3blue1brown](https://www.3blue1brown.com) Animated math  (https://youtu.be/gxAaO2rsdIs)
+  - **Simulating an Epidemic** The [3Blue1Brown](https://www.3blue1brown.com) animated math channel  (https://youtu.be/gxAaO2rsdIs)
   
   ### Web sites
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
