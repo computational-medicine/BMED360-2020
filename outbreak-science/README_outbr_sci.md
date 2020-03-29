@@ -22,7 +22,7 @@
   
   ### Videos
   - **Simulating an Epidemic** The [3Blue1Brown](https://www.3blue1brown.com) animated math channel by [Grant Sanderson](https://en.m.wikipedia.org/wiki/3Blue1Brown)   (https://youtu.be/gxAaO2rsdIs)
-  - **GLEAMviz** The Global Epidemic and Mobility Model (http://www.gleamviz.org) [[video1](http://www.gleamviz.org/wp-content/themes/gleamviz-v3/banners/vision_940px_1024kbps.mp4)] [[video2](http://www.gleamviz.org/media/movies/map-demo-600-1500.mp4)]
+  - **GLEAMviz** The Global Epidemic and Mobility Model (http://www.gleamviz.org) [[video1](http://www.gleamviz.org/wp-content/themes/gleamviz-v3/banners/vision_940px_1024kbps.mp4)] [[video2](http://www.gleamviz.org/media/movies/map-demo-600-1500.mp4)] [[pdf](http://prac.im.pwr.wroc.pl/~szwabin/assets/diff/9.pdf)]
   
   ### Web sites
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
