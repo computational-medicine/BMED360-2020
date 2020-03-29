@@ -20,6 +20,9 @@
   - Rivers C et al. Modernizing and Expanding Outbreak Science to Support Better Decision Making During Public Health Crises: Lessons for COVID-19 and Beyond. Report by The Johns Hopkins Center for Health Security, March 24, 2020 [[online](http://www.centerforhealthsecurity.org/our-work/publications/2020/modernizing-and-expanding-outbreak-science-to-support-better-decision-making-during-public-health-crises)] [[pdf](http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2020/200324-outbreak-science.pdf)]
   - Houlihan CF, Whitworth JAG. _Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases_. Clin Med (Lond). 2019 Mar;19(2):140–144  [[online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)] [[pdf](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)]
   
+  ### Videos
+  - **Simulating an Epidemic** The [3blue1brown](https://www.3blue1brown.com) Animated math  (https://youtu.be/gxAaO2rsdIs)
+  
   ### Web sites
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
    - **Johns Hopkins University CORONAVIRUS RESOURCE CENTER** (https://coronavirus.jhu.edu) see also https://github.com/CSSEGISandData/COVID-19
