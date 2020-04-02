@@ -21,8 +21,8 @@
   - Rivers C et al. _Using “outbreak science” to strengthen the use of models during epidemics_. Nat Commun 2019;10:3102 [[online](https://www.nature.com/articles/s41467-019-11067-2)] [[pdf](https://www.nature.com/articles/s41467-019-11067-2.pdf)]
   - Rivers C et al. Modernizing and Expanding Outbreak Science to Support Better Decision Making During Public Health Crises: Lessons for COVID-19 and Beyond. Report by The Johns Hopkins Center for Health Security, March 24, 2020 [[online](http://www.centerforhealthsecurity.org/our-work/publications/2020/modernizing-and-expanding-outbreak-science-to-support-better-decision-making-during-public-health-crises)] [[pdf](http://www.centerforhealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2020/200324-outbreak-science.pdf)]
 
-### Podcasts
-- **Science fights the coronavirus** [Exponential View](https://www.exponentialview.co) with Azzem Azhar, [[talking](https://pca.st/episode/e069c865-d86d-4804-b5a8-7c75f7389d31)] with [Yaneer Bar-Yam](https://en.wikipedia.org/wiki/Yaneer_Bar-Yam), President of the New EnglandComplex Systems Institute (March 24 2020) [top channel, ignore the ads].
+  ### Podcasts
+  - **Science fights the coronavirus** [Exponential View](https://www.exponentialview.co) with Azzem Azhar, [[talking (March 24 2020)](https://pca.st/episode/e069c865-d86d-4804-b5a8-7c75f7389d31)] with [Yaneer Bar-Yam](https://en.wikipedia.org/wiki/Yaneer_Bar-Yam), President of the New EnglandComplex Systems Institute [top channel, ignore the ads]
   
   ### Videos
   - **Simulating an Epidemic** The [3Blue1Brown](https://www.3blue1brown.com) animated math channel by [Grant Sanderson](https://en.m.wikipedia.org/wiki/3Blue1Brown)   (https://youtu.be/gxAaO2rsdIs)
