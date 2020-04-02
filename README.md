@@ -2,6 +2,8 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
+[Work in progress ver. 20200402]
+
 ![BMED360 image](./assets/bmed360_logo.png)
 
 This is the repository for the course [BMED360](https://www.uib.no/en/course/BMED360) given at the Department of Biomedicine<br>
@@ -14,12 +16,12 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 
 
 
-***) <br>We plan to run BMED 360 (8 students enrolled) starting April 21 ("fully digitized") with a slightly modified curriculum, also addressing COVID-19 and "outbreak science" from a computational imaging and modeling perspective. There will be online slides, computer labs (code and data on GitHub,  using issue tracker for student interaction), assignments/challenges, digital MCQ, and a final digital oral exam from home (presenting yor personal project on Google hangouts / Zoom / Skype - taking load from MittUiB, mostly used for static information). Grading has been A-F, this semester we will use pass/nopass. <br>This is work in PROGRESS . . .**
+***) <br>We plan to run BMED 360 (8 students enrolled) starting April 21 ("fully digitized") with a slightly modified curriculum, also addressing COVID-19 and "outbreak science" from a computional imaging and modeling perspective. There will be online slides, computer labs (code and data on GitHub,  using issue tracker for student interaction), assignments/challenges, digital MCQ, and a final digital oral exam from home (presenting yor personal project on Google hangouts / Zoom / Skype - taking load from MittUiB, mostly used for static information). Grading has been A-F, this semester we will use pass/nopass. <br>This is work in PROGRESS . . .**
 
 
 
 You will find more (static) information about
-this course at [MittUiB](https://mitt.uib.no/courses/22178).
+this course at [MittUiB](http://mitt.uib.no/course/17428).
 
 
 
@@ -44,32 +46,36 @@ Throughout the course you will work with notebooks that contain various material
 ## Major topics in the "In Vivo Imaging and Physiological Modelling" course:
 
 
-[LECTURES](https://sites.google.com/site/bmed360/courses):
+**LECTURES**:
 
 - **Lec 0: [Course overview](https://docs.google.com/presentation/d/1bBlf3NSL8BfmqRvN99-0hUY2Yqm5KjVgCJ3pVZw0PRA/edit?usp=sharing); [SW installation](setup.md), tools and repositories**  (see also https://computingskillsforbiologists.com)
-- **Lec 1**:
-- **Lec 2**:
-- **Lec 3**:
-- **Lec 4**:
-- **Lec 5**:
-- **Lec 6**:
-- **Lec 7**:
-- **Lec 8: Special topic**
+- **Lec 1**: _Introduction to modelling, MRI, and image processing_
+- **Lec 2**: _Water diffusion_, dMRI, and tissue microstructure - Part 1
+- **Lec 3**: _Water diffusion_, diffusion tensor imaging and beyond - Part 2
+- **Lec 4**: _Blood perfusion_ and dynamic susceptibility contrast MRI (DSC-MRI) - Part 1
+- **Lec 5**: _Blood perfusion_, tracer kinetics, and deconvolution - Part 2
+- **Lec 6**: _Vascular permeability_, compartment modelling, and T1w dynamic contrast-enhanced MRI (DCE-MRI)
+- **Lec 7**: _Brain connectivity_ assessed with aMRI, dMRI, fMRI and network (graph) theory
+- **Lec 8**: _Outbreak science and COVID-19_
 
-[LABS](https://sites.google.com/site/bmed360/labs):
+**LABS**:
 
-- **Lab 1** Data analysis and image processing in PYTHON
-- **Lab 2**
-- **Lab 3**
-- **Lab 4**
-- **Lab 5**
-- **Lab 6**
-
-
-**Q&A topics** (partly oudtated) [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
+- **Lab 0**: [SW installation](setup.md) and beginners-guide [...] [...]
+- **Lab 1**: Data analysis, image processing, and modelling in PYTHON [[01-mri](./mri/01-mri-intro.ipynb)] [[02-mri](./mri/02-mri-multispectral.ipynb)] [[03-mri](./mri/03-mri-snr-cnr.ipynb)]
+- **Lab 2**: Multispectral imaging and tissue classification ([machine learning](./machine-learning/README_ml.md)) [...] [...] [[01-ml](./machine-learning/01-intro-example.ipynb)][[02-ml](./machine-learning/02-extensive-example.ipynb)])
+- **Lab 3**: Processing of diffusion MRI (dMRI / DTI)
+- **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)
+- **Lab 5**: Vascular permeability mapping (DCE-MRI)
+- **Lab 6**: Outbreak science and COVID-19 (biology, epidemiology, geo-mapping, imaging)
 
 
-## Tentative schedule (= workflow) Spring 2020 (under revision)
+[Previous (2019) LECTURES](https://sites.google.com/site/bmed360/courses) and
+[Previous (2019) LABS](https://sites.google.com/site/bmed360/labs)
+
+**Q&A topics** (from 2019) [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
+
+
+## Tentative schedule (= self-paced workflow) Spring 2020
 
 <p>&nbsp;</p>
 <div><strong>TENTATIVE order of topics and programming labs / demos (Spring 2020)</strong>:</div>
