@@ -56,4 +56,7 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - biology ([bio](./bio/README_bio.md))
  - epidemiology ([epi](./epi/README_epi.md))
  - spatio-temporal geographical information / cartography ([geo](./geo/README_geo.md))
- - imaging ([img](./img/README_img.md))
+ - imaging ([img](./img/README_img.md))<br>
+
+
+Last updated: 04 Mar 2020 (A.L)
