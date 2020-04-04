@@ -9,7 +9,10 @@
 
 #### We will keep substantial parts of the original curriculum (see [README](../README.md)) and extend those components that relates to "outbreak science", e.g. _the concept of modeling_, _diffusion_, _tracer kinetics_, _network science & graph theory_, _optimization_ ..., every topic supported by Jupyter notebooks - with programming exercises and challenges.
 
-## Learning opportunites
+## Reading material and Learning opportunites
 
 - **Radiology fighting Covid-19 - Live report from Parma, Italy** A special report by the European Society of Radiology (ESR) dedicated to radiology fighting COVID-19. In an expert interview with Prof. Nicola Sverzellati from the University of Parma, Italy, he will share insights on the experience of patient and imaging management in Europe's currently most affected area (thanks for the link Sathiesh)
 [[YouTube](https://www.youtube.com/watch?v=QFW8CmZ0cyM)]
+
+- **Brain images may show 'cytokine storm' from COVID-19** Yee KM [AuntMinnie.com](https://www.auntminnie.com/index.aspx?sec=sup&sub=cto&pag=dis&ItemID=128609) (1 Apr 2020) and Poyiadji N et al. Radiology (31 Mar 2020) [[online](https://pubs.rsna.org/doi/10.1148/radiol.2020201187)] [[pdf](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020201187)]<br>
+"Accumulating evidence suggests that a subgroup of patients with severe COVID-19 might have a cytokine storm syndrome", where "The most characteristic imaging feature includes symmetric, multifocal lesions with invariable thalamic involvement. Other commonly involved locations include the brain stem, cerebral white matter, and cerebellum."
