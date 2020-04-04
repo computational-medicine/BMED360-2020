@@ -12,8 +12,8 @@
 
 ## Reading material and learning opportunities
 
-- **Jupyter meets the Earth**- Enabling discovery in geoscience through interactive computing at scale [[pdf](https://doi.org/10.5281/zenodo.3369938)].  [Medium](https://medium.com) blogpost by Lindsey Heagy and [Fernando Pérez](https://en.wikipedia.org/wiki/Fernando_P%C3%A9rez_(software_developer)) (09 Sep 2019) [[online](https://blog.jupyter.org/jupyter-meets-the-earth-1b0eb33c83f)] 
+- **Jupyter meets the Earth** - Enabling discovery in geoscience through interactive computing at scale [[pdf](https://doi.org/10.5281/zenodo.3369938)].  [Medium](https://medium.com) blogpost by Lindsey Heagy and [Fernando Pérez](https://en.wikipedia.org/wiki/Fernando_P%C3%A9rez_(software_developer)) (09 Sep 2019) [[online](https://blog.jupyter.org/jupyter-meets-the-earth-1b0eb33c83f)] 
 
-#### Other
+#### Other:
 
 - **geobigdata:  [GBDX](https://github.com/DigitalGlobe/gbdxtools) Tutorial notebooks** https://notebooks.geobigdata.io/hub/tutorials/list
