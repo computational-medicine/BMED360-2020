@@ -121,9 +121,11 @@ Learners need to understand what files and directories are and what a working di
 The best way to learn how to program is to do something useful, so [this](http://swcarpentry.github.io/python-novice-inflammation) introduction to Python is built around a common scientific task: **data analysis**; see also [here](https://github.com/annefou/python-novice-inflammation) (thanks to [Anne Fouilloux](https://www.mn.uio.no/geo/english/people/adm/annefou), UiO)
 
 
-## A Note on R (tip for previous R users)
+## A note on R (tip for previous R users)
 
-**It is possible to run R-scripts in Jupyter notebooks**  (Jupyter = Julia, Python and R). If you want to continue working with R (*not part of this course*) you should: 
+**It is possible to run R-scripts in Jupyter notebooks**  (Jupyter = Julia, Python and R). 
+
+If you want to continue working with R (*not part of this course*) you should: 
 
 - Be using the latest R version (https://www.r-project.org) and the RStudio Desktop [[download](https://rstudio.com/products/rstudio/download)] for your Windows, MacOS or Linux system.
 - **Install the R kernel** by opening an R console and then follow the instructions at https://irkernel.github.io/installation
