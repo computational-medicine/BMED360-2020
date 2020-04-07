@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 20200402]
+[Work in progress ver. 20200407]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -21,7 +21,7 @@ The goal of this course is to obtain theoretical and practical knowledge on func
 
 
 You will find more (static) information about
-this course at [MittUiB](http://mitt.uib.no/course/17428).
+this course at [MittUiB](https://mitt.uib.no/courses/22178)
 
 
 
