@@ -7,7 +7,7 @@ This directory is derived from https://github.com/slgit/prog4comp_2 (licensed un
 now in its 2nd edition (2020) and made [Open Access](https://link.springer.com/book/10.1007%2F978-3-030-16877-3) [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3.pdf)] by Springer International Publishing AG under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0)
 
 <p align="center">
-<img src="./assets/HPL_Prog4CompPy_SpringerOpen2020.png" width="800" class="center"/>
+<img src="./assets/HPL_Prog4CompPy_SpringerOpen2020.png" width="900" class="center"/>
 </p>
 
 <br>
