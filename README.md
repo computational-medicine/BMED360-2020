@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 20200407]
+[Work in progress ver. 20200409]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -60,7 +60,7 @@ Throughout the course you will work with notebooks that contain various material
 
 **LABS**:
 
-- **Lab 0**: [SW installation](setup.md) and beginners-guide [...] [...]
+- **Lab 0**: [SW installation](setup.md) and beginners-guide [...] [...] ([prog4comp-SL-HPL](./prog4comp-SL-HPL) for going deeper)
 - **Lab 1**: Data analysis, image processing, and modelling in PYTHON [[01-mri](./mri/01-mri-intro.ipynb)] [[02-mri](./mri/02-mri-multispectral.ipynb)] [[03-mri](./mri/03-mri-snr-cnr.ipynb)]
 - **Lab 2**: Multispectral imaging and tissue classification ([machine learning](./machine-learning/README_ml.md)) [...] [...] [[01-ml](./machine-learning/01-intro-example.ipynb)][[02-ml](./machine-learning/02-extensive-example.ipynb)])
 - **Lab 3**: Processing of diffusion MRI (dMRI / DTI)
