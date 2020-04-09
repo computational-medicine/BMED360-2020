@@ -25,6 +25,7 @@ dependencies:
 - scikit-learn
 - scipy
 - seaborn
+- sympy
 - pip:
   - cufflinks
   - pip
@@ -37,5 +38,4 @@ dependencies:
   - dipy
   - pyradiomics
   - opencv-python
-  # - pandas-profiling
   - SimpleITK
