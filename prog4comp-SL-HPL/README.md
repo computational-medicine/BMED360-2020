@@ -4,7 +4,7 @@ This directory is derived from https://github.com/slgit/prog4comp_2 (licensed un
 
 #### Svein Linge & the late [Hans Petter Langtangen](http://hpl-memorial.simula.no):<br> "*Programming for Computations - Python: A Gentle Introduction to Numerical Simulations with Python*"
 
-now in its 2nd edition (2020) and made [Open Access](https://link.springer.com/book/10.1007/978-3-319-32428-9) [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32428-9.pdf)] by Springer International Publishing AG under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0)
+now in its 2nd edition (2020) and made [Open Access](https://link.springer.com/book/10.1007%2F978-3-030-16877-3) [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3.pdf)] by Springer International Publishing AG under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0)
 
 <p align="center">
 <img src="./assets/HPL_Prog4CompPy_SpringerOpen2020.png" width="300" class="center"/>
@@ -47,12 +47,12 @@ complex software, avoiding pitfalls, and become a safe user.
 
 #### Some relevant topics for the BMED360 course
 
-- 1.1 - What Is a Program? And What Is Programming? (read the section [The First Few Steps](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32428-9_1.pdf))
+- 1.1 - What Is a Program? And What Is Programming? (read the section [The First Few Steps](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3_1.pdf))
 - 1.2 - A Python Program with Variables [[ball](./src/ball.py)]
 - 1.3 - A Python Program with a Library Function [[ball_angle_first_try](./src/ball_angle_first_try.py)] [[ball_angle](./src/ball_angle.py)] [[ball_angle_prefix](./src/ball_angle_prefix.py)]
-- 1.4 - Importing from Modules and Packages (read the section)
+- 1.4 - Importing from Modules and Packages (read the section [The First Few Steps](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3_1.pdf))
 - 1.5 - A Python Program with Vectorization and Plotting [[ball_plot](./src/ball_plot.py)]
-- 2.2 - Variables, Objects and Expressions  (read the section [A Few More Steps])
+- 2.2 - Variables, Objects and Expressions  (read the section [A Few More Steps](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3_2.pdf))
 - 2.3 - Numerical Python Arrays [[Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)]
 - 2.4 - Random Numbers [[throw_2_dice](./src/throw_2_dice.py)]
 - 3.1 - The `for` loop [[average_height](./src/average_height.py)] [[time_tables_4](./src/time_tables_4.py)]
