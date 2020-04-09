@@ -7,7 +7,7 @@ This directory is derived from https://github.com/slgit/prog4comp_2 (licensed un
 now in its 2nd edition (2020) and made [Open Access](https://link.springer.com/book/10.1007%2F978-3-030-16877-3) [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3.pdf)] by Springer International Publishing AG under the terms of the Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0)
 
 <p align="center">
-<img src="./assets/HPL_Prog4CompPy_SpringerOpen2020.png" width="300" class="center"/>
+<img src="./assets/HPL_Prog4CompPy_SpringerOpen2020.png" width="400" class="center"/>
 </p>
 
 <br>
@@ -62,10 +62,10 @@ complex software, avoiding pitfalls, and become a safe user.
 - 5.3 - Symbolic Computations [[example_symbolic](./src/example_symbolic.py)]
 - 5.4 - Making Our Own Module [[vertical_motion](./src/vertical_motion.py)]
 - 5.5 - Files: Read and Write [[file_handling](./src/file_handling.py)]
-- 8.2 - Population Growth: A First Order ODE [[growth1](./src/growth1.py)]
+- 8.2 - Population Growth: A First Order ODE [[growth1](./src/growth1.py)] (read the section [Solving Ordinary Differential Equations](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3_8.pdf))
 - 8.3 - Spreading of Disease: A System of First Order ODEs [[SIR1](./src/SIR1.py)] [[SIR2](./src/SIR2.py)] [[SIRV1](./src/SIRV1.py)] [[SIRV2](./src/SIRV2.py)]
 - 9.1 - Example: Temperature Development in a Rod (*diffusion*) [[random_walk_2D](./src/random_walk_2D.py)] [[rod_FE](./src/rod_FE.py)] [[rod_FE_scaled](./src/rod_FE_scaled.py)]
-- 9.2 - Finite Difference Methods [[test_diffusion_pde_exact_linear](./src/test_diffusion_pde_exact_linear)] [[rod_FE_vec](./src/rod_FE_vec.py)]
+- 9.2 - Finite Difference Methods [[test_diffusion_pde_exact_linear](./src/test_diffusion_pde_exact_linear)] [[rod_FE_vec](./src/rod_FE_vec.py)] (read the section [Solving Partial Differential Equations](https://link.springer.com/content/pdf/10.1007%2F978-3-030-16877-3_9.pdf))
 
 
 ***
