@@ -47,25 +47,25 @@ complex software, avoiding pitfalls, and become a safe user.
 
 #### Some relevant topics for the BMED360 course
 
-- 1.1 What Is a Program? AndWhat Is Programming? (read the section)
-- 1.2 A Python Program with Variables [[ball](./src/ball.py)]
-- 1.3 A Python Program with a Library Function [[ball_angle_first_try](./src/ball_angle_first_try.py)] [[ball_angle](./src/ball_angle.py)] [[ball_angle_prefix](./src/ball_angle_prefix.py)]
-- 1.4 Importing from Modules and Packages (read the section)
-- 1.5 A Python Program with Vectorization and Plotting [[ball_plot](./src/ball_plot.py)]
-- 2.2 Variables, Objects and Expressions  (read the section)
-- 2.3 Numerical Python Arrays [[Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)]
-- 2.4 Random Numbers [[throw_2_dice](./src/throw_2_dice.py)]
-- 3.1 The `for` loop [[average_height](./src/average_height.py)] [[time_tables_4](./src/time_tables_4.py)]
-- 3.2 The `while` loop [[ball_plot](./src/ball_plot.py)]
-- 3.3 Branching (`if`, `elif` and `else`)  [[swim_advisor](./src/swim_advisor.py)]
-- 4.1 Functions: How to Write Them? [[ball_function](./src/ball_function.py)] [[ball_position_xy](./src/ball_position_xy.py))] [[function_as_argument](./src/function_as_argument.py)]
-- 5.3 Symbolic Computations [[example_symbolic](./src/example_symbolic.py)]
-- 5.4 Making Our Own Module [[vertical_motion](./src/vertical_motion.py)]
-- 5.5 Files: Read and Write [[file_handling](./src/file_handling.py)]
-- 8.2 Population Growth: A First Order ODE [[growth1](./src/growth1.py)]
-- 8.3 Spreading of Disease: A System of First Order ODEs [[SIR1](./src/SIR1.py)] [[SIR2](./src/SIR2.py)] [[SIRV1](./src/SIRV1.py)] [[SIRV2](./src/SIRV2.py)]
-- 9.1 Example: Temperature Development in a Rod (*diffusion*) [[random_walk_2D](./src/random_walk_2D.py)] [[rod_FE](./src/rod_FE.py)] [[rod_FE_scaled](./src(rod_FE_scaled.py)]
-- 9.2 Finite Difference Methods [[test_diffusion_pde_exact_linear](./src/test_diffusion_pde_exact_linear)] [[rod_FE_vec](./src/rod_FE_vec.py)]
+- 1.1 - What Is a Program? And What Is Programming? (read the section)
+- 1.2 - A Python Program with Variables [[ball](./src/ball.py)]
+- 1.3 - A Python Program with a Library Function [[ball_angle_first_try](./src/ball_angle_first_try.py)] [[ball_angle](./src/ball_angle.py)] [[ball_angle_prefix](./src/ball_angle_prefix.py)]
+- 1.4 - Importing from Modules and Packages (read the section)
+- 1.5 - A Python Program with Vectorization and Plotting [[ball_plot](./src/ball_plot.py)]
+- 2.2 - Variables, Objects and Expressions  (read the section)
+- 2.3 - Numerical Python Arrays [[Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)]
+- 2.4 - Random Numbers [[throw_2_dice](./src/throw_2_dice.py)]
+- 3.1 - The `for` loop [[average_height](./src/average_height.py)] [[time_tables_4](./src/time_tables_4.py)]
+- 3.2 - The `while` loop [[ball_plot](./src/ball_plot.py)]
+- 3.3 - Branching (`if`, `elif` and `else`)  [[swim_advisor](./src/swim_advisor.py)]
+- 4.1 - Functions: How to Write Them? [[ball_function](./src/ball_function.py)] [[ball_position_xy](./src/ball_position_xy.py))] [[function_as_argument](./src/function_as_argument.py)]
+- 5.3 - Symbolic Computations [[example_symbolic](./src/example_symbolic.py)]
+- 5.4 - Making Our Own Module [[vertical_motion](./src/vertical_motion.py)]
+- 5.5 - Files: Read and Write [[file_handling](./src/file_handling.py)]
+- 8.2 - Population Growth: A First Order ODE [[growth1](./src/growth1.py)]
+- 8.3 - Spreading of Disease: A System of First Order ODEs [[SIR1](./src/SIR1.py)] [[SIR2](./src/SIR2.py)] [[SIRV1](./src/SIRV1.py)] [[SIRV2](./src/SIRV2.py)]
+- 9.1 - Example: Temperature Development in a Rod (*diffusion*) [[random_walk_2D](./src/random_walk_2D.py)] [[rod_FE](./src/rod_FE.py)] [[rod_FE_scaled](./src/rod_FE_scaled.py)]
+- 9.2 - Finite Difference Methods [[test_diffusion_pde_exact_linear](./src/test_diffusion_pde_exact_linear)] [[rod_FE_vec](./src/rod_FE_vec.py)]
 
 
 ***
