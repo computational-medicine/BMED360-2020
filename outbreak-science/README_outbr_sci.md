@@ -62,4 +62,4 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - imaging ([img](./img/README_img.md))<br>
 
 
-Last updated: 04 Mar 2020 (A.L)
+Last updated: 09 Apr 2020 (A.L)
