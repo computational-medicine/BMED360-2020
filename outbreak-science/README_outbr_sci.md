@@ -49,6 +49,7 @@
    - **sars-cov-2** Here are 65 public repositories matching this topic ... from the [neherlab](https://neherlab.org)
 Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-cov-2. See also [covid19_scenarios](https://github.com/neherlab/covid19_scenarios) and [covid19_scenarios_data](https://github.com/neherlab/covid19_scenarios_data)
    - **COVID-19 Datasets for Machine Learning** (curated Google Docs list by [Mila](https://docs.google.com/document/d/1Wkvbf2t2Da87NtNvMJf_PRqv9zLHyqqtRitBIGGKKNM/edit#))
+   - **Introduction to Computational Thinking with Julia, with applications to modelling the COVID-19 pandemic** mitmath/6S083: Materials for MIT 6.S083 / 18.S190; Spring 2020 (https://github.com/mitmath/6S083)
  
 
 ## Online slides (some with video)
