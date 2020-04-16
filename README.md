@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 20200409]
+[Work in progress ver. 20200416]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -48,7 +48,7 @@ Throughout the course you will work with notebooks that contain various material
 
 **LECTURES**:
 
-- **Lec 0: [Course overview](https://docs.google.com/presentation/d/1bBlf3NSL8BfmqRvN99-0hUY2Yqm5KjVgCJ3pVZw0PRA/edit?usp=sharing); [SW installation](setup.md), tools and repositories**  (see also https://computingskillsforbiologists.com)
+- **Lec 0: [Course overview](https://docs.google.com/presentation/d/1VZ82RAl2TxBh88FvWEl9K6W1Dcacw1BA32bILS1T-XI/edit?usp=sharing); [SW installation](setup.md), tools and repositories**  (see also https://computingskillsforbiologists.com)
 - **Lec 1**: _Introduction to modelling, MRI, and image processing_
 - **Lec 2**: _Water diffusion_, dMRI, and tissue microstructure - Part 1
 - **Lec 3**: _Water diffusion_, diffusion tensor imaging and beyond - Part 2
