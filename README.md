@@ -56,7 +56,7 @@ Throughout the course you will work with notebooks that contain various material
 - **Lec 5**: _Blood perfusion_, tracer kinetics, and deconvolution - Part 2
 - **Lec 6**: _Vascular permeability_, compartment modelling, and T1w dynamic contrast-enhanced MRI (DCE-MRI)
 - **Lec 7**: _Brain connectivity_ assessed with aMRI, dMRI, fMRI and network (graph) theory
-- **Lec 8**: _Outbreak science and COVID-19_
+- **Lec 8**: _Outbreak science and COVID-19_ [[README](./outbreak-science/README_outbr_sci.md)]
 
 **LABS**:
 
