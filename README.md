@@ -49,7 +49,7 @@ Throughout the course you will work with notebooks that contain various material
 **LECTURES**:
 
 - **Lec 0: [Course overview](https://docs.google.com/presentation/d/1VZ82RAl2TxBh88FvWEl9K6W1Dcacw1BA32bILS1T-XI/edit?usp=sharing); [SW installation](setup.md), tools and repositories**  (see also https://computingskillsforbiologists.com)
-- **Lec 1**: _Introduction to modelling, MRI, and image processing_  (Tofts$^2018$ Ch. [1](https://drive.google.com/open?id=1s36p4vEXEEfmL3KZqMaHkbu4e58XMgDj), Ch. [2](https://drive.google.com/open?id=1zWhdLIzTFsk92a-XLWj7eW8pHmDs5VEG), Ch. [17](https://drive.google.com/open?id=19U76zBL2ZQrRnhUT-s_GpFzPM29WpJLB), Ch. [18](https://drive.google.com/open?id=1t9vUUJ6Xc4zmCdCjwNJuqhZHo_CV06ad))
+- **Lec 1**: _Introduction to modelling, MRI, and image processing_  (Tofts [2018] Ch. [1](https://drive.google.com/open?id=1s36p4vEXEEfmL3KZqMaHkbu4e58XMgDj), Ch. [2](https://drive.google.com/open?id=1zWhdLIzTFsk92a-XLWj7eW8pHmDs5VEG), Ch. [17](https://drive.google.com/open?id=19U76zBL2ZQrRnhUT-s_GpFzPM29WpJLB), Ch. [18](https://drive.google.com/open?id=1t9vUUJ6Xc4zmCdCjwNJuqhZHo_CV06ad))
 - **Lec 2**: _Water diffusion_, dMRI, and tissue microstructure - Part 1
 - **Lec 3**: _Water diffusion_, diffusion tensor imaging and beyond - Part 2
 - **Lec 4**: _Blood perfusion_ and dynamic susceptibility contrast MRI (DSC-MRI) - Part 1
