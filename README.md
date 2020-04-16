@@ -66,7 +66,7 @@ Throughout the course you will work with notebooks that contain various material
 - **Lab 3**: Processing of diffusion MRI (dMRI / DTI)
 - **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)
 - **Lab 5**: Vascular permeability mapping (DCE-MRI)
-- **Lab 6**: Outbreak science and COVID-19 (biology, epidemiology, geo-mapping, imaging)
+- **Lab 6**: Outbreak science and COVID-19 (biology, epidemiology, geo-mapping, imaging)  [[README](./outbreak-science/README_outbr_sci.md)]
 
 
 [Previous (2019) LECTURES](https://sites.google.com/site/bmed360/courses) and
