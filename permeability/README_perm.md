@@ -5,3 +5,6 @@
 ### Software
 
 - Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data (https://github.com/aydindemircioglu/pydcemri)
+
+
+- MITK-ModelFit: A generic open-source framework for model fits and their exploration in medical imaging – design, implementation and application on the example of DCE-MRI (http://mitk.org/wiki/MITK-ModelFit ; https://phabricator.mitk.org/source/mitk.git)    [[PDF](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2588-1)]
