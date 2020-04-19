@@ -4,4 +4,4 @@
 
 ### Software
 
-- Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data (https://github.com/welcheb/pydcemri)
+- Python module for processing dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) data (https://github.com/aydindemircioglu/pydcemri)
