@@ -30,7 +30,7 @@ this course at [MittUiB](https://mitt.uib.no/courses/22178)
 
 **Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
-# Browser
+### Browser
 - Display and functionality might differ between browsers - we recommend using [Chrome](https://www.google.com/chrome) on all platforms
 
 # Notebooks
