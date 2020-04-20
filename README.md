@@ -86,7 +86,7 @@ Throughout the course you will work with notebooks that contain various material
 <tr>
 <td>&nbsp;BLOCK 1</td>
 <td>&nbsp;Day 1 (April 21)</td>
-<td>&nbsp;Lec 1</td>
+<td>&nbsp;Lec 0, Lec 1</td>
 <td>&nbsp;Lab &nbsp;1</td>
 </tr>
 <tr>
