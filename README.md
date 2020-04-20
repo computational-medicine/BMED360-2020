@@ -64,9 +64,9 @@ Throughout the course you will work with notebooks that contain various material
 - **Lab 0**: [SW installation](setup.md) and beginners-guide [...] [...] ([prog4comp-SL-HPL](./prog4comp-SL-HPL) for going deeper)
 - **Lab 1**: Data analysis, image processing, and modelling in PYTHON [[01-mri](./mri/01-mri-intro.ipynb)] [[02-mri](./mri/02-mri-multispectral.ipynb)] [[03-mri](./mri/03-mri-snr-cnr.ipynb)]
 - **Lab 2**: Multispectral imaging and tissue classification ([machine learning](./machine-learning/README_ml.md)) [...] [...] [[01-ml](./machine-learning/01-intro-example.ipynb)][[02-ml](./machine-learning/02-extensive-example.ipynb)])
-- **Lab 3**: Processing of diffusion MRI (dMRI / DTI)
-- **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)
-- **Lab 5**: Vascular permeability mapping (DCE-MRI)
+- **Lab 3**: Processing of diffusion MRI (dMRI / DTI)  [[DIPY](https://dipy.org)]  [[README](./diffusion/README_diff.md)]
+- **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)  [[README](./perfusion/README_perf.md)]
+- **Lab 5**: Vascular permeability mapping (DCE-MRI) [[README](./permeability/README_perm.md)]
 - **Lab 6**: Outbreak science and COVID-19 (biology, epidemiology, geo-mapping, imaging)  [[README](./outbreak-science/README_outbr_sci.md)]
 
 
