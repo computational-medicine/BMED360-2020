@@ -5,6 +5,8 @@
 
 ### Introductory videos
 - **MRI vs. CT** (https://www.youtube.com/watch?v=aQZ8tTZnQ8A)
+- **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
+- **MRI: Basic Physics & a Brief History**  25 min (https://www.youtube.com/watch?v=djAxjtN_7VE)
 
 ### Awesome Magnetic Resonance Imaging (MRI)
  - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Daniel Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
