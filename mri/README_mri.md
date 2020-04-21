@@ -8,6 +8,7 @@
 - **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
 - **Brain MRI scan protocols, positioning and planning** 9:34 (https://youtu.be/R5LQzoFynqI)
 - **MRI: Basic Physics & a Brief History**  25:51 (https://youtu.be/djAxjtN_7VE)
+- **Bergen fMRI group - the birth of a research group** 19:45 (https://youtu.be/6UhfAX3RusE)
 
 ### Awesome Magnetic Resonance Imaging (MRI)
  - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Daniel Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
