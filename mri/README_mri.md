@@ -4,9 +4,9 @@
 ## _MRI_
 
 ### Introductory videos
+- **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
 - **Brain MRI scan protocols, positioning and planning** 9:34 (https://youtu.be/R5LQzoFynqI)
-- **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI: Basic Physics & a Brief History**  25:51 (https://youtu.be/djAxjtN_7VE)
 
 ### Awesome Magnetic Resonance Imaging (MRI)
