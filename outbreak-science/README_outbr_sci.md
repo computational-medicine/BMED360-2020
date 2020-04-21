@@ -33,6 +33,7 @@
   - **GLEAMviz** The Global Epidemic and Mobility Model (http://www.gleamviz.org) [[video1](http://www.gleamviz.org/wp-content/themes/gleamviz-v3/banners/vision_940px_1024kbps.mp4)] [[video2](http://www.gleamviz.org/media/movies/map-demo-600-1500.mp4)] [[pdf1](http://prac.im.pwr.wroc.pl/~szwabin/assets/diff/8.pdf)] [[pdf2](http://prac.im.pwr.wroc.pl/~szwabin/assets/diff/9.pdf)]
   - **The MATH of Epidemics | Intro to the SIR Model** by [Trefor Bazett](https://www.uvic.ca/science/math-statistics/people/home/faculty/bazett_trefor.php) (https://www.youtube.com/watch?v=Qrp40ck3WpI)
   - **The MATH of Epidemics | Variants of the SIR Model** by Trefor Bazett (https://www.youtube.com/watch?v=f1a8JYAixXU)
+  - **Oxford Mathematician explains SIR disease model for COVID-19 (Coronavirus)** by Tom Crawford (https://youtu.be/NKMHhm2Zbkw)
   
   
   ### Web sites
@@ -63,4 +64,4 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - imaging ([img](./img/README_img.md))<br>
 
 
-Last updated: 09 Apr 2020 (A.L)
+Last updated: 22 Apr 2020 (A.L)
