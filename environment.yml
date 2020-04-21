@@ -18,6 +18,7 @@ dependencies:
 - matplotlib
 # - mplleaflet
 - numpy
+- openpyxl
 - pandas
 - plotly
 - pip
