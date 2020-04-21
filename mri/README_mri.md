@@ -11,6 +11,7 @@
 
 ### Awesome Magnetic Resonance Imaging (MRI)
  - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Daniel Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
+ - **MRIMASTER.COM** (https://mrimaster.com)
  
 ### Simulators and more
 
