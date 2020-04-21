@@ -73,9 +73,8 @@ Throughout the course you will work with notebooks that contain various material
 
 **EXAM**:
 
-- **MCQ**:
-
-- **Oral presentation of PROJECT**:
+- **MCQ**: [[README](./exam/README.md)]
+- **Oral presentation of PROJECT**: [[README](./exam/README.md)]
 
 
 
