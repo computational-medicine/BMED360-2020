@@ -4,7 +4,7 @@
 ## _MRI_
 
 ### Introductory videos
-- **MRI vs. CT** (https://www.youtube.com/watch?v=aQZ8tTZnQ8A)
+- **MRI vs. CT** 2:31 (https://youtu.be/aQZ8tTZnQ8A)
 - **How Does an MRI Scan Work?** 1:20 (https://youtu.be/1CGzk-nV06g)
 - **MRI: Basic Physics & a Brief History**  25 min (https://www.youtube.com/watch?v=djAxjtN_7VE)
 
