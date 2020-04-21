@@ -3,6 +3,8 @@
 
 ## _MRI_
 
+### Introductory videos
+- **MRI vs. CT** (https://www.youtube.com/watch?v=aQZ8tTZnQ8A)
 
 ### Awesome Magnetic Resonance Imaging (MRI)
  - **A curated list of delightful Magnetic Resonance courses, books, lectures, papers, blogs and free resources** by Daniel Gomez, Donders Institute for Brain, Cognition and Behaviour (https://github.com/dangom/awesome-mri)
