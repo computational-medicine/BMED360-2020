@@ -34,6 +34,7 @@
   - **The MATH of Epidemics | Intro to the SIR Model** by [Trefor Bazett](https://www.uvic.ca/science/math-statistics/people/home/faculty/bazett_trefor.php) (https://youtu.be/Qrp40ck3WpI)
   - **The MATH of Epidemics | Variants of the SIR Model** by Trefor Bazett (https://youtu.be/f1a8JYAixXU)
   - **Oxford Mathematician explains SIR disease model for COVID-19 (Coronavirus)** by Tom Crawford (https://youtu.be/NKMHhm2Zbkw)
+  - **How SARS-CoV-2 infects, sickens and kills people** by Benjamin Neuman, [The Conversation](https://theconversation.com/what-the-coronavirus-does-to-your-body-that-makes-it-so-deadly-133856) (https://youtu.be/BtN-goy9VOY)
   - **How ventilators work** [video at [STATnews](https://www.statnews.com/2020/04/21/coronavirus-analysis-recommends-less-reliance-on-ventilators/?jwsource)]. For [pathophysiology](https://en.wikipedia.org/wiki/Pathophysiology) of COVID-19, see also the review by A.M. Dondorp et al. _Respiratory support in novel coronavirus disease (COVID-19) patients, with a focus on resource-limited settings_. Am J Trop Med Hyg.  April 21, 2020   [[onlline](https://www.ajtmh.org/content/journals/10.4269/ajtmh.20-0283)] [[pdf](https://www.ajtmh.org/deliver/fulltext/10.4269/ajtmh.20-0283/tpmd200283.pdf?itemId=%2Fcontent%2Fjournals%2F10.4269%2Fajtmh.20-0283&mimeType=pdf&containerItemId=content/astmh)]
   
   
