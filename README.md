@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 20200421]
+[Work in progress ver. 20200422]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -36,8 +36,8 @@ this course at [MittUiB](https://mitt.uib.no/courses/22178)
 # Notebooks
 The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
-## IMPORTANT (for making your own coding experiments without conflict with the original notebooks)
-Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `git pull` (things can have changed).
+### IMPORTANT (for making your own coding experiments without conflict with the original notebooks)
+Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull`** (things can have changed).
 
 
 ## Get started - test your environment
