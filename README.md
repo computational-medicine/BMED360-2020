@@ -31,12 +31,13 @@ this course at [MittUiB](https://mitt.uib.no/courses/22178)
 **Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
 ### Browser
-- Display and functionality might differ between browsers - we recommend using [Chrome](https://www.google.com/chrome) on all platforms
+- Display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
 
 # Notebooks
 The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
-Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`.
+## IMPORTANT (for making your own coding experiments without conflict with the original notebooks)
+Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `git pull` (things can have changed).
 
 
 ## Get started - test your environment
