@@ -36,7 +36,7 @@
   - **Oxford Mathematician explains SIR disease model for COVID-19 (Coronavirus)** by Tom Crawford (https://youtu.be/NKMHhm2Zbkw)
   - **How SARS-CoV-2 infects, sickens and kills people** by Benjamin Neuman, [The Conversation](https://theconversation.com/what-the-coronavirus-does-to-your-body-that-makes-it-so-deadly-133856) / Kurzgesagt – In a Nutshell (https://youtu.be/BtN-goy9VOY)
   - **How ventilators work** [video at [STATnews](https://www.statnews.com/2020/04/21/coronavirus-analysis-recommends-less-reliance-on-ventilators/?jwsource)]. For [pathophysiology](https://en.wikipedia.org/wiki/Pathophysiology) of COVID-19, see also the review by A.M. Dondorp et al. _Respiratory support in novel coronavirus disease (COVID-19) patients, with a focus on resource-limited settings_. Am J Trop Med Hyg.  April 21, 2020   [[onlline](https://www.ajtmh.org/content/journals/10.4269/ajtmh.20-0283)] [[pdf](https://www.ajtmh.org/deliver/fulltext/10.4269/ajtmh.20-0283/tpmd200283.pdf?itemId=%2Fcontent%2Fjournals%2F10.4269%2Fajtmh.20-0283&mimeType=pdf&containerItemId=content/astmh)]
-  
+  - **Lessons learned (or, may be not)** The next outbreak? We’re not ready, [TED talk](https://www.ted.com) by Bill Gates, Apr 3 2015 (https://youtu.be/6Af6b_wyiwI)
   
   ### Web sites
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
@@ -66,4 +66,4 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - imaging ([img](./img/README_img.md))<br>
 
 
-Last updated: 22 Apr 2020 (A.L)
+Last updated: 26 Apr 2020 (A.L)
