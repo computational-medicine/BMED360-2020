@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 20200428]
+[Work in progress ver. 20200503]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -57,7 +57,7 @@ Throughout the course you will work with notebooks that contain various material
 - **Lec 4**: _Blood perfusion_ and dynamic susceptibility contrast MRI (DSC-MRI) - Part 1  [Tofts (2003) Ch. [11](https://drive.google.com/open?id=1DWhL0B8xGc1EL1Ag7J4I2iCMBdHl-2mA); McRobbie (2017) Ch. [18](https://drive.google.com/open?id=1kAUzG30nGN4a9pPq45jH6pIHPU0EKwyC) pp. 311-314.]
 - **Lec 5**: _Blood perfusion_, tracer kinetics, and deconvolution - Part 2  [Tofts (2003) Ch. [11](https://drive.google.com/open?id=1DWhL0B8xGc1EL1Ag7J4I2iCMBdHl-2mA)]
 - **Lec 6**: _Vascular permeability_, compartment modelling, and T1w dynamic contrast-enhanced MRI (DCE-MRI) [Tofts (2018) Ch. [14](https://drive.google.com/open?id=1Wy6ZGurLkV18q6v1XAlhMRfvLttV2f08); McRobbie (2017) Ch. [18](https://drive.google.com/open?id=1kAUzG30nGN4a9pPq45jH6pIHPU0EKwyC) pp. 316-319; Measurement of Renal Perfusion and Filtration with MRI [GitHub](https://github.com/arvidl/functional-kidney-imaging) / [slides](https://docs.google.com/presentation/d/1WS6ODHrXOfYL-fXLw847EkYR4qcvDJA6bRTvqFE_fIY/edit?usp=sharing)]
-- **Lec 7**: _Brain connectivity_ assessed with aMRI, dMRI, fMRI and network (graph) theory  [Fornito (2016) Ch. [1](https://drive.google.com/open?id=179E3CAZsV6LzV7Jb37eHmczuzVLJUB4H); [Bassett (2018)](https://drive.google.com/open?id=1PW30HroQMBLPLDiZsnhJZ-obumW5RaEA); McRobbie (2017) Ch. [18](https://drive.google.com/open?id=1kAUzG30nGN4a9pPq45jH6pIHPU0EKwyC) pp. 319-325.]
+- **[Lec 7](https://docs.google.com/presentation/d/142Y5wQKkIvRkcmBiSV2INDhuMdRHrpPhxqs2zx17ZCY/edit?usp=sharing)**: _Brain connectivity_ assessed with aMRI, dMRI, fMRI and network (graph) theory  [Fornito (2016) Ch. [1](https://drive.google.com/open?id=179E3CAZsV6LzV7Jb37eHmczuzVLJUB4H); [Bassett (2018)](https://drive.google.com/open?id=1PW30HroQMBLPLDiZsnhJZ-obumW5RaEA); McRobbie (2017) Ch. [18](https://drive.google.com/open?id=1kAUzG30nGN4a9pPq45jH6pIHPU0EKwyC) pp. 319-325.]
 - **Lec 8**: _Outbreak science and COVID-19_ [[README](./outbreak-science/README_outbr_sci.md)]
 
 **LABS**:
