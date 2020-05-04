@@ -46,3 +46,4 @@ On Mac you will also need to do:
 
 > pip install pyobjc
 
+**Start the program** by typing `quantiphyse` at a command prompt.
