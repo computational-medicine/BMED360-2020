@@ -1,9 +1,13 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2020
 
 
-### _perfusion_
+## Midterm project:
+
+### The KIWI fruit seed segmentation challenge
+
+![problem](./assets/photo_mri_kiwi_20050219.jpg)
 
 
-## Software
-
-- Model-Free Deconvolution of 4D DCE MRI scans (https://github.com/liob/non-parametric_deconvolution) [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31276264)]
+## [Problem formulation](https://docs.google.com/presentation/d/1B_E-Pcwfvj3hgG2o02vsxmez_Bm6x72uI5tzIu0dymU/edit?usp=sharing)
+## Data
+## Tentative methods
