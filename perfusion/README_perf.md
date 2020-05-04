@@ -29,7 +29,9 @@
 
 The DSC-MRI package provides a Bayesian modelling tool for quantification of perfusion and other haemodynamic parameters from Dynamic Susceptibility Contrast perfusion MRI of the brain.
 
-- DSC vascular model: Mouridsen K, Friston K, Hjort N, Gyldensted L, Østergaard L, Kiebel S. Bayesian estimation of cerebral perfusion using a physiological model of microvasculature. NeuroImage 2006;33:570–579. [[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811906006859)]
+- DSC vascular model: 
+  - Mouridsen K, Friston K, Hjort N, Gyldensted L, Østergaard L, Kiebel S. Bayesian estimation of cerebral perfusion using a physiological model of microvasculature. NeuroImage 2006;33:570–579. [[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811906006859)]
+  - Chappell MA, Groves AR , Whitcher B, Woolrich MW. Variational bayesian inference for a nonlinear forward model. IEEE Transactions on Signal Processing 2009;57(1):223-236. [[link](https://ieeexplore.ieee.org/document/4625948)]
 
 #### Installation
 
