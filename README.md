@@ -74,6 +74,7 @@ Throughout the course you will work with notebooks that contain various material
 
 **ASSESSMENT / EXAM**:
 
+- **Midterm assignment**: [[The KIWIfruit segmentation challenge](./midterm-project)]
 - **MCQ / Quiz**: [[README](./exam/README.md)]
 - **Oral presentation of PROJECT**: [[README](./exam/README.md)]
 
