@@ -2,7 +2,7 @@
 
 ## ( with [_ad hoc_](./outbreak-science/README_outbr_sci.md) curriculum* on COVID-19 and "outbreak science" )
 
-[Work in progress ver. 20200503]
+[Work in progress ver. 20200505]
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
@@ -66,7 +66,7 @@ Throughout the course you will work with notebooks that contain various material
 - **Lab 1**: Data analysis, image processing, and modelling in PYTHON [[01-mri](./mri/01-mri-intro.ipynb)] [[02-mri](./mri/02-mri-multispectral.ipynb)] [[03-mri](./mri/03-mri-snr-cnr.ipynb)]
 - **Lab 2**: Multispectral imaging and tissue classification [[04-mri](./mri/04-mri-knn-tissue-classification.ipynb)] [[05-mri](./mri/05-mri-kmeans-tissue-classification.ipynb)] [[01-ml](./machine-learning/01-intro-example.ipynb)] [[02-ml](./machine-learning/02-extensive-example.ipynb)]
 - **Lab 3**: Processing of diffusion MRI (dMRI / DTI)  [[DIPY](https://dipy.org)]  [[README](./diffusion/README_diff.md)] [[01-diff](./diffusion/01-diff-random-walks.ipynb)] [[02-diff](./diffusion/02-diff-dipy-S0s.ipynb)] [[03-diff](./diffusion/03-diff-dipy-find-affine-brainmask2dwi.ipynb)] [[04-diff](./diffusion/04-diff-dipy-reconstruction-dti.ipynb)] [[05-diff](./diffusion/05-diff-dipy-do-affine-reg-anat2dwi.ipynb)] [[06-diff](./diffusion/06-diff-dipy-dti-feature-extraction-roi-wise.ipynb)]
-- **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)  [[README](./perfusion/README_perf.md)]
+- **Lab 4**: Processing of perfusion MRI (pMRI / DSC-MRI)  [[README](./perfusion/README_perf.md)] [[01-perf](./perfusion/01-perf-explore.ipynb)]
 - **Lab 5**: Vascular permeability mapping (DCE-MRI) [[README](./permeability/README_perm.md)]
 - **Lab 6**: Outbreak science and COVID-19 (biology, epidemiology, geo-mapping, imaging) [[covid-19-eda](./outbreak-science/epi/covid-19-eda.ipynb)] [[simulitis-outbreak](./outbreak-science/epi/simulitis-outbreak.ipynb)]
 
