@@ -2,7 +2,7 @@
 
 
 ## - Midterm project:
-**Compulsory assignment on given topic (TBA)**
+**Compulsory assignment on given topic ([Kiwi segmentation challenge](../midterm-project))**
 
 ## - MCQ / Quiz (from home):
 **Compulsory (about 50 "simple/basic" MCQs / quizzes across the entire curriculum; 60 min duration - digital from home; at least 60\% correct to pass)**
