@@ -13,4 +13,4 @@
 
 
 
-NOTE: [`Awesome`](https://github.com/sindresorhus/awesome) list is a concept developed by Sindre Sørhus of awesome stuff curated in a list.
+NOTE: [`Awesome list`](https://github.com/sindresorhus/awesome) is a concept developed by Sindre Sørhus (Norway) of awesome stuff curated in a list.
