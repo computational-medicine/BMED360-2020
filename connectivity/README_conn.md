@@ -21,11 +21,12 @@ NOTE: [`Awesome list`](https://github.com/sindresorhus/awesome) is a concept dev
 
 How to install a separate `brainiak` conda environment and the `BrainIAK` software kit (NOTE: Windows not supported):
 
-> conda info --envs
-> conda deactivate
-> conda create --name brainiak python=3.7
-> conda activate brainiak
-> conda install -c brainiak -c defaults -c conda-forge brainiak
-> conda install -n brainiak ipykernel
-> python -m ipykernel install --user --name brainiak --display-name "BRAINIAK"
+> conda info --envs<br>
+> conda deactivate<br>
+> conda create --name brainiak python=3.7<br>
+> conda activate brainiak<br>
+> conda install -c brainiak -c defaults -c conda-forge brainiak<br>
+> conda install -n brainiak ipykernel<br>
+> python -m ipykernel install --user --name brainiak --display-name "BRAINIAK"<br>
+
 
