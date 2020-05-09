@@ -1,8 +1,16 @@
 # In Vivo Imaging and Physiological Modelling - BMED 360 Spring 2020
 
-### _connectivity_
+### _connectivity_ and _fMRI_
+
+---------------------
+## Videos
+
+- [Principles of fMRI Course](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA) by Tor Wager & Martin Lindquist
+- [Analyzing Neural Time Series Data: Principles & Theory](http://mikexcohen.com/lectures.html) By Mike X Cohen
+- [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA) by Jeanette Mumford
 
 
+---------------------------------
 ## Software for network science
 
 - An `awesome list` of resources to construct, analyze and visualize network data - https://github.com/briatte/awesome-network-analysis
