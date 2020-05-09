@@ -7,7 +7,7 @@
 
 - An `awesome list` of resources to construct, analyze and visualize network data - https://github.com/briatte/awesome-network-analysis
 
-
+- Jupyter notebooks developed and used by [Erika Fille Legara](https://erikalegara.site) in her Network Science class -  https://github.com/eflegara/Network-Science-Lectures
 
 
 
