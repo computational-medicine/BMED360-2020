@@ -27,6 +27,7 @@ How to install a separate `brainiak` conda environment and the `BrainIAK` softwa
 > conda activate brainiak<br>
 > conda install -c brainiak -c defaults -c conda-forge brainiak<br>
 > conda install -n brainiak ipykernel<br>
+> conda install jupyter notebook
 > python -m ipykernel install --user --name brainiak --display-name "BRAINIAK"<br>
 
 
