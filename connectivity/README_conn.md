@@ -17,4 +17,4 @@ NOTE: [`Awesome list`](https://github.com/sindresorhus/awesome) is a concept dev
 
 ## Software for functional brain connectivity
 
--  BrainIAK [Tutorials](https://brainiak.org/tutorials) -    **Paper**: Kumar M et al. BrainIAK tutorials: User-friendly learning materials for advanced fMRI analysis. PLoS Computational Biology 2020;16(1), e1007549  [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007549)] [[pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007549&type=printable)]
+-  Brain Imaging Analysis Kit (BrainIAK) [[GitHub](https://github.com/brainiak/brainiak)] [[Tutorials](https://brainiak.org/tutorials)] and  **paper**: Kumar M et al. BrainIAK tutorials: User-friendly learning materials for advanced fMRI analysis. PLoS Computational Biology 2020;16(1), e1007549  [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007549)] [[pdf](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007549&type=printable)]
