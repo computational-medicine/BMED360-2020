@@ -61,7 +61,8 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
  - **COVID-19 Videos** from International SOS (https://pandemic.internationalsos.com/2019-ncov/covid-videos)
  - **COVID-19 - What you need to know** International SOS [[ppt](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos-coronavirus-disease-2019talksimplifiedv51.pptx?la=en)]
  - **COVID-19 Presentation** - Free Google Slides theme and PowerPoint template (https://slidesgo.com/theme/covid-19)
- - **Learning from 26,000 cases of COVID-19 in Wuhan** by Xihong Lin, Biostatistics, Broad Institute of Harvard and MIT [[google slides](https://docs.google.com/presentation/d/1-rvZs0zsXF_0Tw8TNsBxKH4V1LQQXq7Az9kDfCgZDfE/mobilepresent?slide=id.p1)]
+ - **Learning from 26,000 cases of COVID-19 in Wuhan** (20 Mar 2020) by Xihong Lin, Biostatistics, Broad Institute of Harvard and MIT [[google slides](https://docs.google.com/presentation/d/1-rvZs0zsXF_0Tw8TNsBxKH4V1LQQXq7Az9kDfCgZDfE/mobilepresent?slide=id.p1)]
+ - **Teach (and learn) from Home** - tools and tips Google/Unesco (https://teachfromhome.google/intl/en) (https://en.unesco.org/covid19/educationresponse/solutions)
 
 ## Computer labs (on GitHub)
  - biology ([bio](./bio/README_bio.md))
