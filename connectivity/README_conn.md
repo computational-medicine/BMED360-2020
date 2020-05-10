@@ -27,7 +27,7 @@ NOTE: [`Awesome list`](https://github.com/sindresorhus/awesome) is a concept dev
 
 ## Software for functional MRI and brain connectivity
 
-- Dartmouth fMRI Analysis Course taught by Prof Luke Chang  - [**Dartbrains**](https://dartbrains.org) /  https://github.com/ljchang/dartbrains
+- **Dartmouth fMRI Analysis Course** taught by Prof Luke Chang  - [**Dartbrains**](https://dartbrains.org) /  https://github.com/ljchang/dartbrains
 
 How can we understand how the brain works? This course provides an introduction to in vivo neuroimaging in humans using functional magnetic resonance imaging (fMRI). The goal of the class is to introduce: (1) how the scanner generates data, (2) how psychological states can be probed in the scanner, and (3) how this data can be processed and analyzed. Students will be expected to analyze brain imaging data using the opensource Python programming language. We will be using several packages such as numpy, matplotlib, nibabel, nilearn, fmriprep, and nltools. This course will be useful for students working in neuroimaging labs, completing a neuroimaging thesis, or interested in pursuing graduate training in fields related to cognitive neuroscience.
 
@@ -37,6 +37,7 @@ How can we understand how the brain works? This course provides an introduction 
 
 How to install a separate `brainiak` conda environment and the `BrainIAK` software kit (NOTE: Windows not supported):
 
+```
 > conda info --envs<br>
 > conda deactivate<br>
 > conda create --name brainiak python=3.7<br>
@@ -50,7 +51,7 @@ How to install a separate `brainiak` conda environment and the `BrainIAK` softwa
 > conda install -c conda-forge nxviz
 > conda install -c conda-forge deepdish
 > conda install -c conda-forge watchdog
-
+```
 
 
 
