@@ -56,7 +56,7 @@ Computational biology at the Biozentrum, Basel: https://github.com/topics/sars-c
    - **Introduction to Computational Thinking with Julia, with applications to modelling the COVID-19 pandemic** mitmath/6S083: Materials for MIT 6.S083 / 18.S190; Spring 2020 (https://github.com/mitmath/6S083)
  
 
-### Online slides (some with video)
+### Online slides (and some tools)
 
  - **COVID-19 Videos** from International SOS (https://pandemic.internationalsos.com/2019-ncov/covid-videos)
  - **COVID-19 - What you need to know** International SOS [[ppt](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos-coronavirus-disease-2019talksimplifiedv51.pptx?la=en)]
