@@ -57,7 +57,7 @@ The various image format classes give full or selective access to header (meta) 
 
 [nib.save](https://nipy.org/nibabel/reference/nibabel.loadsave.html#nibabel.loadsave.save): Save an image to file adapting format to filename
 
-[data.get_data](https://nipy.org/nibabel/reference/nibabel.dataobj_images.html): Return image data from image with any necessary scaling applied
+[data.get_fdata](https://nipy.org/nibabel/reference/nibabel.dataobj_images.html): Return image data from image with any necessary scaling applied
 
 [data.get_shape](https://nipy.org/nibabel/reference/nibabel.dataobj_images.html): Return shape for image
 
