@@ -42,7 +42,7 @@
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
    - **Johns Hopkins University CORONAVIRUS RESOURCE CENTER** (https://coronavirus.jhu.edu) see also https://github.com/CSSEGISandData/COVID-19
    - **Highlights of Expert Panel on COVID-19 from Harvard, MIT, Mass General Hospital** (https://www.justsecurity.org/69202/highlights-of-expert-panel-on-covid-19-from-harvard-mit-mass-general)
-   - **COVID Scholar** COVID-19 literature search [powered](https://covidscholar.org/about) by advanced NLP algorithms (https://covidscholar.org)
+   - **COVID Scholar from the Lawrence Berkeley National Laboratory** COVID-19 literature search [powered](https://covidscholar.org/about) by advanced [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) algorithms (https://covidscholar.org)
   
   ### Data and challenges (for educational use)
    - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
