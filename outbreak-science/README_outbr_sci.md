@@ -18,8 +18,7 @@
   ### Papers / Reviews
   - Adam D. _Special report: The simulations driving the world's response to COVID-19_ - How epidemiologists rushed to model the coronavirus pandemic. Nature (03 April 2020) [[online](https://www.nature.com/articles/d41586-020-01003-6)]
   - Drew DA, ..., Cardoso J, Ourselin S, ..., Chan A, COPE Consortium. _Rapid implementation of mobile technology for real-time epidemiology of COVID-19_. Science 2020 (first release 5 May 2020) [[online](https://science.sciencemag.org/content/early/2020/05/05/science.abc0473.full)] [[pdf](https://science.sciencemag.org/content/early/2020/05/05/science.abc0473/tab-pdf)] [[App details](https://science.sciencemag.org/content/sci/suppl/2020/05/04/science.abc0473.DC1/abc0473_Drew_SM.pdf)]
-  - Ferretti L et al. _Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing_. Science 2020 (first release 31 March 2020) [[online](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936)] [[suppl](https://science.sciencemag.org/content/suppl/2020/03/3
-0/science.abb6936.DC1)] [[pdf](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936/tab-pdf)]
+  - Ferretti L et al. _Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing_. Science 2020 (first release 31 March 2020) [[online](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936)] [[suppl](https://science.sciencemag.org/content/suppl/2020/03/30/science.abb6936.DC1)] [[pdf](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936/tab-pdf)]
   - Houlihan CF, Whitworth JAG. _Outbreak science: recent progress in the detection and response to outbreaks of infectious diseases_. Clin Med (Lond). 2019 Mar;19(2):140–144  [[online](https://www.rcpjournals.org/content/clinmedicine/19/2/140)] [[pdf](https://www.rcpjournals.org/content/clinmedicine/19/2/140.full.pdf?download=true)]
   - Howard J, Thomas R. _Covid-19, your community, and you - a data science perspective_. [fast.ai](https://www.fast.ai) (9 Mar 2020) [[online](https://www.fast.ai/2020/03/09/coronavirus)]
   - Rivers C et al. _Using “outbreak science” to strengthen the use of models during epidemics_. Nat Commun 2019;10:3102 [[online](https://www.nature.com/articles/s41467-019-11067-2)] [[pdf](https://www.nature.com/articles/s41467-019-11067-2.pdf)]
@@ -43,6 +42,7 @@
    - **WHO Coronavirus disease (COVID-19) Pandemic** (https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
    - **Johns Hopkins University CORONAVIRUS RESOURCE CENTER** (https://coronavirus.jhu.edu) see also https://github.com/CSSEGISandData/COVID-19
    - **Highlights of Expert Panel on COVID-19 from Harvard, MIT, Mass General Hospital** (https://www.justsecurity.org/69202/highlights-of-expert-panel-on-covid-19-from-harvard-mit-mass-general)
+   - **COVID Scholar** COVID-19 literature search powered by advanced NLP algorithms (https://covidscholar.org)
   
   ### Data and challenges (for educational use)
    - **Fighting Covid-19 Challenge** Medical imaging is potentially well suited for Covid-19 diagnosis. "This challenge is about connecting the best brains to support doctors with artificial intelligence systems" (https://www.covid19challenge.eu)
