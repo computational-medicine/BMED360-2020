@@ -40,3 +40,7 @@ dependencies:
   - pyradiomics
   - opencv-python
   - SimpleITK
+  - osfclient
+  - pybids
+  - nltools
+  
